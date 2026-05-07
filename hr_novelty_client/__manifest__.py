@@ -44,7 +44,6 @@
         "data/hr_novelty_type.xml",
         "data/hr_novelty_type_subtype.xml",
         "data/ir.sequence.xml",
-        "data/hr_novelty_event.xml",
         "wizard/novelty_create_contact_view.xml",
         "wizard/novelty_create_employee_view.xml",
         "wizard/novelty_create_contract_view.xml",
