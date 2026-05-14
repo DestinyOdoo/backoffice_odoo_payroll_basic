@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    "name": "Hr Novelty Client",
+    "name": "Nómina con localización colombiana Plan Básico",
     "version": "17.0.1.0.0",
     "author": "BACKOFFICE S.A.S.",
     "website": "https://www.boffice.cloud/",
